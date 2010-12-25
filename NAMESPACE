@@ -1,0 +1,7 @@
+import(gplots)
+import(tcltk)
+
+export(Meth27QC)
+export(QCRep)
+
+
